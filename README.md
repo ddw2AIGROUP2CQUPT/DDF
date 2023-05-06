@@ -10,8 +10,8 @@ torchvision
 
 ### Data preparation
 
--Download the [BSDS500]() and the [NYUDv2](http://vcl.ucsd.edu/hed/nyu/)
--Place the images to "./data/.'
+- Download the [BSDS500]() and the [NYUDv2](http://vcl.ucsd.edu/hed/nyu/)
+- Place the images to "./data/.'
 
 ####
 - For NYUDv2 dataset, the following command can bu run for data augmentation
@@ -20,7 +20,8 @@ python ./data/aug.py
 ```
 
 ### Pretrained Models
-- Download the pretrained model "./pretrained/bsds"
+- Download the pretrained model [bsds](链接：https://pan.baidu.com/s/17l8KLEu5uXNYPv7pLWHezA?pwd=edzi 
+提取码：edzi)
 
 ### Training and Testing
 - Download the pre-trained model vgg16-bn and EfficientNetv2-S
